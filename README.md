@@ -2,6 +2,8 @@
 
 ![](demo/demo.gif)
 
+add new
+
 ## Update(1-1-2020)
 Changes
 - fix bugs
